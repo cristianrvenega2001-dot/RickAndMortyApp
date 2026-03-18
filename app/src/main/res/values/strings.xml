@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rick and Morty App</string>
+    <string name="splash_text">¡Wubba Lubba Dub Dub!</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_message">Mensaje de soporte</string>
+    <string name="btn_send_support">Enviar Soporte</string>
+    <string name="toast_fill_fields">Por favor completa todos los campos</string>
+    <string name="error_invalid_email">Email no válido</string>
+    <string name="support_email">soporte@rickmorty.com</string>
+    <string name="support_subject">Soporte App - %s</string>
+    <string name="status_template">Estado: %s</string>
+    <string name="species_template">Especie: %s</string>
+    <string name="gender_template">Género: %s</string>
+    <string name="character_image_desc">Imagen del personaje</string>
+    <string name="title_about">Acerca de la App</string>
+    <string name="developer_name">Desarrollado por:\nCristian Venega</string>
+    <string name="app_version">Versión 1.0 - Proyecto Final</string>
+    <string name="btn_about">Acerca de</string>
+</resources>
