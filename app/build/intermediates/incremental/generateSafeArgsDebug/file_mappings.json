@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["com.example.rickandmorty.ui.view.SplashFragmentDirections","com.example.rickandmorty.ui.view.DashboardFragmentDirections","com.example.rickandmorty.ui.view.DetailsFragmentArgs"]}]

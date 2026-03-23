@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.7\\com.example.rickandmorty.app-debug-53:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.7\\com.example.rickandmorty.app-main-55:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.7\\com.example.rickandmorty.app-debug-53:\\layout_fragment_support.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.7\\com.example.rickandmorty.app-main-55:\\layout\\fragment_support.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.7\\com.example.rickandmorty.app-debug-53:\\layout_fragment_splash.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.7\\com.example.rickandmorty.app-main-55:\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.7\\com.example.rickandmorty.app-debug-53:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.7\\com.example.rickandmorty.app-main-55:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.7\\com.example.rickandmorty.app-debug-53:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.7\\com.example.rickandmorty.app-main-55:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "com.example.rickandmorty.app-debug-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.rickandmorty.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.rickandmorty.app-debug-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.rickandmorty.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.7\\com.example.rickandmorty.app-debug-53:\\layout_fragment_details.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.7\\com.example.rickandmorty.app-main-55:\\layout\\fragment_details.xml"
+    },
+    {
+        "merged": "com.example.rickandmorty.app-debug-53:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.rickandmorty.app-main-55:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.7\\com.example.rickandmorty.app-debug-53:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.7\\com.example.rickandmorty.app-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.7\\com.example.rickandmorty.app-debug-53:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.7\\com.example.rickandmorty.app-main-55:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.7\\com.example.rickandmorty.app-debug-53:\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.7\\com.example.rickandmorty.app-main-55:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "com.example.rickandmorty.app-debug-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.rickandmorty.app-main-55:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario\\.gradle\\daemon\\8.7\\com.example.rickandmorty.app-debug-53:\\layout_item_character.xml.flat",
+        "source": "C:\\Users\\usuario\\.gradle\\daemon\\8.7\\com.example.rickandmorty.app-main-55:\\layout\\item_character.xml"
+    }
+]
